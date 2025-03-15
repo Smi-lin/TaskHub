@@ -1,3 +1,4 @@
+import "./config/connection"
 import React from "react";
 import Home from "./components/Homepage/Home";
 import About from "./components/Homepage/About";
